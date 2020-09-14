@@ -20,7 +20,7 @@ Socials and stuff
 
 Projects
 
-Mainly I'm working on my bot called Cat Folk and it's build from the [disco](https://github.com/b1naryth1ef/disco)
+Mainly I'm working on my bot called Cat Folk and it's build from the [disco](https://github.com/b1naryth1ef/disco) library and the invite link is [this](https://discord.com/oauth2/authorize?client_id=754805926485164113&scope=bot&permissions=8)
 
 Discord servers that I'm active on
 
