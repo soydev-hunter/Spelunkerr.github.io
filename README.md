@@ -17,6 +17,8 @@ I'm Shizetora, a person born and living in Greece, I use Java, Javascript, Types
 [Discord](https://discord.com/users/699186744532402267)
 
 
+[osu! account](https://osu.ppy.sh/users/17018413)
+
 
 # Projects
 
