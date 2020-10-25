@@ -28,11 +28,3 @@ Yes, I'm planning it, I'll probably make it .io or .xyz
 
 
 
-# Discord servers that I'm active on
-
-
-[Discord Devolopers](https://discord.gg/discord-developers)
-
-[r/leagueoflegends (not active a lot there)](https://discord.gg/lol)
-
-[Discord API (kinda active there)](https://discord.gg/discord-api)
