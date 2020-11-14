@@ -5,7 +5,7 @@
 
 Hello everyone!
 
-I'm Asphyxia or Bill, a person born and living in Greece, I use Java, Javascript, Typescript, C++ and whatever else I need. I'm also interested in network administration, gaming and network firewalls (like Cloudflare). About gaming I'm not the best but not the worst either to get an idea of what games I play, most of the time I play CS:GO, TF2 and Minecraft
+I'm Asphyxia or Bill, a person born and living in Greece, I use Java, Javascript, Typescript, C++ and whatever else I need. I'm also interested in network administration, gaming and network firewalls (like Cloudflare). About gaming I'm not the best but not the worst either to get an idea of what games I play, most of the time I play CS:GO, TF2, Minecraft and the father of all Touhou
 
 
  
